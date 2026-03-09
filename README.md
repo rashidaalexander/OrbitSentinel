@@ -1,8 +1,8 @@
 # OrbitSentinel
-banner.png
-<p align="center">
-  <img src="assets/banner.png" alt="OrbitSentinel banner" width="100%" />
-</p>
+<img width="1600" height="420" alt="banner" src="https://github.com/user-attachments/assets/b8f84e7e-fea8-42e6-9363-74a2767724e6" />
+
+![starfield](https://github.com/user-attachments/assets/6eabb67a-5752-460b-a0b9-3317771117ab)
+
 
 <p align="center">
   <img src="assets/starfield.gif" alt="OrbitSentinel starfield" width="100%" />

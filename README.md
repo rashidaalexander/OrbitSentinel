@@ -28,9 +28,7 @@ OrbitSentinel is part of a space-AI-security ecosystem designed to look and beha
 
 ## Architecture
 
-<p align="center">
-  <img src="assets/architecture.svg" alt="OrbitSentinel architecture" width="100%" />
-</p>
+<img width="762" height="220" alt="Screenshot 2026-03-09 at 1 09 11 AM" src="https://github.com/user-attachments/assets/51b50e5a-d761-4990-97c5-57f9445f9c51" />
 
 **Pipeline**
 

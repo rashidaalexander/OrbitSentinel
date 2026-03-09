@@ -1,0 +1,11 @@
+{
+  "title": "OrbitSentinel",
+  "description": "Analyzes satellite telemetry samples, scores anomalies, and generates operator-ready incident summaries.",
+  "suggested_topics": [
+    "space-security",
+    "ai-systems",
+    "research-prototype",
+    "orbitsentinel"
+  ],
+  "color_theme": "#ff4d4f"
+}

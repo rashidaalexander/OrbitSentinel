@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" rx="24" fill="#0b1020"/>
+<text x="60" y="70" fill="#ff4d4f" font-size="34" font-family="Arial" font-weight="700">OrbitSentinel Architecture</text>
+<g font-family="Arial" font-size="22" font-weight="700">
+<rect x="60" y="130" width="180" height="80" rx="16" fill="#12192e" stroke="#ff4d4f"/><text x="95" y="178" fill="#e5e7eb">Input Data</text>
+<rect x="300" y="130" width="220" height="80" rx="16" fill="#12192e" stroke="#ff4d4f"/><text x="338" y="178" fill="#e5e7eb">Processing Core</text>
+<rect x="580" y="130" width="220" height="80" rx="16" fill="#12192e" stroke="#ff4d4f"/><text x="620" y="178" fill="#e5e7eb">Reasoning Layer</text>
+<rect x="860" y="130" width="260" height="80" rx="16" fill="#12192e" stroke="#ff4d4f"/><text x="920" y="178" fill="#e5e7eb">CLI + Reports</text>
+<line x1="240" y1="170" x2="300" y2="170" stroke="#cbd5e1" stroke-width="4"/>
+<line x1="520" y1="170" x2="580" y2="170" stroke="#cbd5e1" stroke-width="4"/>
+<line x1="800" y1="170" x2="860" y2="170" stroke="#cbd5e1" stroke-width="4"/>
+</g>
+<text x="60" y="285" fill="#cbd5e1" font-size="20" font-family="Arial">Uses RF context from SignalNebula and links to graph intelligence from OrbitalGraph.</text>
+</svg>
